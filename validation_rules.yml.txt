@@ -1,0 +1,2 @@
+column1: integer
+column2: string
